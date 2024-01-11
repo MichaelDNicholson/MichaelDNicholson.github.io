@@ -216,9 +216,9 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: supervision
     content:
-      title: Recent & Upcoming Talks
+      title: Supervision
       filters:
         folders:
           - event
