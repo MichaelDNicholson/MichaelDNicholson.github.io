@@ -29,12 +29,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cancer evolution
+  - Mutagenesis
+  - Stochastic modelling & statistical inference
 
 # Education to show in About widget
-education:
+education and training:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
