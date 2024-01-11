@@ -200,7 +200,7 @@ sections:
 #    design:
 #      columns: '2'
 #      view: card
-  - block: collection
+  - block: papers
     id: papers
     content:
       title: Papers
