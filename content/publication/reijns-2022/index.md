@@ -1,0 +1,127 @@
+---
+title: Signatures of TOP1 transcription-associated mutagenesis in cancer and germline
+authors:
+- Martin A M Reijns
+- David A Parry
+- Thomas C Williams
+- Ferran Nadeu
+- Rebecca L Hindshaw
+- Diana O Rios Szwed
+- Michael D Nicholson
+- Paula Carroll
+- Shelagh Boyle
+- Romina Royo
+- Alex J Cornish
+- Hang Xiang
+- Kate Ridout
+- John C Ambrose
+- Prabhu Arumugam
+- Roel Bevers
+- Marta Bleda
+- Freya Boardman-Pretty
+- Christopher R Boustred
+- Helen Brittain
+- Mark J Caulfield
+- Georgia C Chan
+- Greg Elgar
+- Tom Fowler
+- Adam Giess
+- Angela Hamblin
+- Shirley Henderson
+- Tim J P Hubbard
+- Rob Jackson
+- Louise J Jones
+- Dalia Kasperaviciute
+- Melis Kayikci
+- Athanasios Kousathanas
+- Lea Lahnstein
+- Sarah E A Leigh
+- Ivonne U S Leong
+- Javier F Lopez
+- Fiona Maleady-Crowe
+- Meriel McEntagart
+- Federico Minneci
+- Loukas Moutsianas
+- Michael Mueller
+- Nirupa Murugaesu
+- Anna C Need
+- Peter O'Donovan
+- Chris A Odhams
+- Christine Patch
+- Mariana Buongermino Pereira
+- Daniel Perez-Gil
+- John Pullinger
+- Tahrima Rahim
+- Augusto Rendon
+- Tim Rogers
+- Kevin Savage
+- Kushmita Sawant
+- Richard H Scott
+- Afshan Siddiq
+- Alexander Sieghart
+- Samuel C Smith
+- Alona Sosinsky
+- Alexander Stuckey
+- Mélanie Tanguy
+- Ana Lisa Taylor Tavares
+- Ellen R A Thomas
+- Simon R Thompson
+- Arianna Tucci
+- Matthew J Welland
+- Eleanor Williams
+- Katarzyna Witkowska
+- Suzanne M Wood
+- Daniel Chubb
+- Alex Cornish
+- Ben Kinnersley
+- Richard Houlston
+- David Wedge
+- Andreas Gruber
+- Anna Frangou
+- William Cross
+- Trevor Graham
+- Andrea Sottoriva
+- Gulio Caravagna
+- Nuria Lopez-Bigas
+- Claudia Arnedo-Pac
+- David Church
+- Richard Culliford
+- Steve Thorn
+- Phil Quirke
+- Henry Wood
+- Ian Tomlinson
+- Boris Noyvert
+- Anna Schuh
+- Konrad Aden
+- Claire Palles
+- Elias Campo
+- Tatjana Stankovic
+- Martin S Taylor
+- Andrew P Jackson
+- The Genomics England Research Consortium
+- 000 Genomes Project Colorectal Cancer Domain UK 100
+date: '2022-01-01'
+publishDate: '2024-01-11T15:45:03.072338Z'
+publication_types:
+- article-journal
+publication: '*Nature*'
+doi: 10.1038/s41586-022-04403-y
+abstract: The mutational landscape is shaped by many processes. Genic regions are
+  vulnerable to mutation but are preferentially protected by transcription-coupled
+  repair1. In microorganisms, transcription has been demonstrated to be mutagenic2,3;
+  however, the impact of transcription-associated mutagenesis remains to be established
+  in higher eukaryotes4. Here we show that ID4—a cancer insertion–deletion (indel)
+  mutation signature of unknown aetiology5 characterized by short (2 to 5 base pair)
+  deletions —is due to a transcription-associated mutagenesis process. We demonstrate
+  that defective ribonucleotide excision repair in mammals is associated with the
+  ID4 signature, with mutations occurring at a TNT sequence motif, implicating topoisomerase
+  1 (TOP1) activity at sites of genome-embedded ribonucleotides as a mechanistic basis.
+  Such TOP1-mediated deletions occur somatically in cancer, and the ID-TOP1 signature
+  is also found in physiological settings, contributing to genic de novo indel mutations
+  in the germline. Thus, although topoisomerases protect against genome instability
+  by relieving topological stress6, their activity may also be an important source
+  of mutations in the human genome.
+links:
+- name: URL
+  url: https://doi.org/10.1038/s41586-022-04403-y
+---
