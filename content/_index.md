@@ -201,7 +201,7 @@ sections:
 #      columns: '2'
 #      view: card
   - block: collection
-    id: featured
+    id: papers
     content:
       title: Papers
 #      text: |-
