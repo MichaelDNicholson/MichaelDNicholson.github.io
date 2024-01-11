@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'michael.nicholson@ed.ac.uk'
+    link: mailto:michael.nicholson@ed.ac.uk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
