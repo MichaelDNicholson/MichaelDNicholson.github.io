@@ -47,7 +47,7 @@ education:
       year: 2014-2018
     - course: MMath in Mathematics
       institution: University of Edinburgh
-      year:2008- 2014
+      year: 2008-2014
 
 
 # Skills
