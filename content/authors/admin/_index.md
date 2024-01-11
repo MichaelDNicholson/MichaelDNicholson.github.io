@@ -25,8 +25,7 @@ organizations:
     url: https://www.ed.ac.uk/institute-genetics-cancer
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome. I am an applied mathematician based in Edinburgh, UK.\nI am currently a Cross Disciplinary Research fellow at the Institute of Genetics and Cancer at the University of Edinburgh. In September 2024 I will move to the School of Mathematics at the University of Edinburgh as Chancellor's fellow in Health and Life. Please get in touch if you're interested in undertaking an applied mathematics PhD combining mathematical modelling, data science, and cancer genomics.\nI'm interested in building, developing, and applying mathematical methods to understand the mutations observed in cancer genomes. Mathematically, I adopt a stochastic process centred approach, building mechanistic models in order to quantitatively explore hypotheses, and infer fundamental mutational and evolutionary parameters. These models are paired with large, state-of-the-art DNA sequencing datasets. Biologically, I focus on how and when mutations arise in cancer, and what the consequences of certain mutations are for cancer development and progression.\nI am organiser of the Mathematical Biology seminars at the School of Mathematics, University of Edinburgh.
-
+bio:
 
 # Interests to show in About widget
 interests:
@@ -53,7 +52,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+#skills:
   - name: Technical
     items:
       - name: Python
@@ -71,7 +70,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+ # - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -126,7 +125,7 @@ highlight_name: true
 ---
 Welcome. I am an applied mathematician based in Edinburgh, UK.
 
-I am currently a Cross Disciplinary Research fellow at the Institute of Genetics and Cancer at the University of Edinburgh. In September 2024 I will move to the School of Mathematics at the University of Edinburgh as Chancellor's fellow in Health and Life. Please get in touch if you're interested in undertaking an applied mathematics PhD combining mathematical modelling, data science, and cancer genomics.
+I am currently a Cross Disciplinary Research fellow at the Institute of Genetics and Cancer at the University of Edinburgh. In September 2024 I will move to the School of Mathematics at the University of Edinburgh as a Chancellor's fellow in Health and Life. Please get in touch if you're interested in undertaking an applied mathematics PhD combining mathematical modelling, data science, and cancer genomics.
 
 I'm interested in building, developing, and applying mathematical methods to understand the mutations observed in cancer genomes. Mathematically, I adopt a stochastic process centred approach, building mechanistic models in order to quantitatively explore hypotheses, and infer fundamental mutational and evolutionary parameters. These models are paired with large, state-of-the-art DNA sequencing datasets. Biologically, I focus on how and when mutations arise in cancer, and what the consequences of certain mutations are for cancer development and progression.
 
