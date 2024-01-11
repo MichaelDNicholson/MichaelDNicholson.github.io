@@ -34,17 +34,21 @@ interests:
   - Stochastic modelling & statistical inference
 
 # Education to show in About widget
-education and training:
+education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Cross Disciplinary Research Fellowship          
+      institution: University of Edinburgh
+      year: 2020-2024
+    - course: Postdoctoral Fellow
+      institution: Harvard University and Dana-Farber Cancer Institute
+      year: 2018-2020
+    - course: PhD in Physics
+      institution: University of Edinburgh
+      year: 2014-2018
+    - course: MMath in Mathematics
+      institution: University of Edinburgh
+      year:2008- 2014
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
