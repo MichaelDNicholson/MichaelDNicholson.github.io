@@ -124,8 +124,11 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Welcome. I am an applied mathematician based in Edinburgh, UK.\n
+Welcome. I am an applied mathematician based in Edinburgh, UK.
+
 I am currently a Cross Disciplinary Research fellow at the Institute of Genetics and Cancer at the University of Edinburgh. In September 2024 I will move to the School of Mathematics at the University of Edinburgh as Chancellor's fellow in Health and Life. Please get in touch if you're interested in undertaking an applied mathematics PhD combining mathematical modelling, data science, and cancer genomics.
+
 I'm interested in building, developing, and applying mathematical methods to understand the mutations observed in cancer genomes. Mathematically, I adopt a stochastic process centred approach, building mechanistic models in order to quantitatively explore hypotheses, and infer fundamental mutational and evolutionary parameters. These models are paired with large, state-of-the-art DNA sequencing datasets. Biologically, I focus on how and when mutations arise in cancer, and what the consequences of certain mutations are for cancer development and progression.
+
 I am organiser of the Mathematical Biology seminars at the School of Mathematics, University of Edinburgh.
 {style="text-align: justify;"}
