@@ -235,13 +235,13 @@ sections:
 #      # Contact (add or remove contact options as necessary)
       email: michael.nicholson@ed.ac.uk
 #      appointment_url: 'https://calendly.com'
-#      address:
-#        street: 450 Serra Mall
-#        city: Stanford
-#        region: CA
-#        postcode: '94305'
-#        country: United States
-#        country_code: US
+      address:
+        street: 450 Serra Mall
+        city: Stanford
+        region: CA
+        postcode: '94305'
+        country: United States
+        country_code: US
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
