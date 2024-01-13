@@ -206,7 +206,7 @@ sections:
 #	    filters:
 #		folders:
 #		  - posts
-- block: markdown
+  - block: markdown
     content:
       title: My title
       subtitle: My subtitle
