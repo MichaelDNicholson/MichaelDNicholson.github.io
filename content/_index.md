@@ -206,15 +206,6 @@ sections:
 #	    filters:
 #		folders:
 #		  - posts
-  - block: markdown
-    id: supervision
-    content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    design:
-      columns: '2'
-      view: compact
   - block: collection
     id: papers
     content:
@@ -230,6 +221,17 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: markdown
+    id: supervision
+    content:
+      title: My title
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+            - item 1
+            - item 2
+    design:
+      columns: '2'
+      view: compact
 #  - block: collection
 #    id: supervision
 #    content:
