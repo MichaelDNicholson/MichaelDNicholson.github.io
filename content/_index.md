@@ -232,7 +232,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
+  - block: markdown
     id: posts1
     content:
       title: Recent Posts
