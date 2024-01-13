@@ -260,8 +260,8 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      # Choose a listing view
-      view: card
+      columns: '2'
+      view: compact
 #  - block: collection
 #    id: supervision
 #    content:
