@@ -227,10 +227,6 @@ sections:
       title: My title
       subtitle: My subtitle
       text: 
-      
-            - yes
-            - yes 
-            
     design:
       columns: '2'
       view: compact
