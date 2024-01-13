@@ -226,10 +226,10 @@ sections:
     content:
       title: My title
       subtitle: My subtitle
-      text:   
-        bullet 1
-        bullet 2
-        bullet 3
+      text: |-
+        - bullet 1
+        - bullet 2
+        - bullet 3
     design:
       columns: '2'
       view: compact
