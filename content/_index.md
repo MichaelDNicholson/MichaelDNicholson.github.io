@@ -226,11 +226,9 @@ sections:
     content:
       title: My title
       subtitle: My subtitle
-      text: Colors:
-
-            * Red
-            * Green
-            * Blue
+      text: ## Trying to understand this
+            
+            Is this a break
     design:
       columns: '2'
       view: compact
