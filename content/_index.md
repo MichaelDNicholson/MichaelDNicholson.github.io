@@ -244,7 +244,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - post
+          - posts1
         author: ""
         category: ""
         tag: ""
