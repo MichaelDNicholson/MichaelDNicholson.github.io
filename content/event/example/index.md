@@ -20,11 +20,11 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 #- Third item
 #- Fourth item 
 
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+#{
+#  "firstName": "John",
+#  "lastName": "Smith",
+#  "age": 25
+#}
 
 
 # Talk start and end times.
