@@ -233,7 +233,7 @@ sections:
       columns: '2'
       view: compact
   - block: collection
-    id: posts
+    id: posts1
     content:
       title: Recent Posts
       subtitle: ''
