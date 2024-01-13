@@ -200,11 +200,12 @@ sections:
 #    design:
 #      columns: '2'
 #      view: card
-  - block: markdown
-    content:
-	    filters:
-		folders:
-		  - posts
+#didnt work
+#  - block: markdown
+#    content:
+#	    filters:
+#		folders:
+#		  - posts
   - block: collection
     id: papers
     content:
