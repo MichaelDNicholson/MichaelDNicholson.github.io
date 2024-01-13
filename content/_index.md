@@ -202,9 +202,9 @@ sections:
 #      view: card
   - block: markdown
     content:
-    filters:
-        folders:
-          - posts
+	    filters:
+		folders:
+		  - posts
   - block: collection
     id: papers
     content:
