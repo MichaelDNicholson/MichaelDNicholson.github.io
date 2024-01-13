@@ -227,7 +227,7 @@ sections:
       title: My title
       subtitle: My subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-            List:
+            List
               - item 1
               - item 2
     design:
