@@ -199,7 +199,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: citation #used to be card
 #   - block: collection
 #     id: papers
 #     content:
