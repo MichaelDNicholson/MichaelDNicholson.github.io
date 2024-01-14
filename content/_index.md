@@ -221,7 +221,7 @@ sections:
       title: Supervision
 #      subtitle: 
       text: |-
-        - Xell Brunet-Guasch PhD exp 2025. (co-supervised with Tibor Antal and Ian Tomlinson, Michael Nicholson) 
+        - Xell Brunet-Guasch, PhD exp 2025 (co-supervised with Tibor Antal and Ian Tomlinson) 
 #       - uncomment and add if have more
     design:
       columns: '2'
