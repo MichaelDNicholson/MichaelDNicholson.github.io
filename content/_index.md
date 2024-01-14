@@ -227,42 +227,41 @@ sections:
       title: My title
       subtitle: My subtitle
       text: |-
-        - bullet 1
-        - bullet 2
-        - bullet 3
+        - Xell Brunet-Guasch PhD exp 2025. (co-supervised with Tibor Antal and Ian Tomlinson, Michael Nicholson) 
+#       - uncomment and add if have more
     design:
       columns: '2'
       view: compact
-  - block: markdown
-    id: posts1
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: 'Check out my recent blog posts below!'
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - posts1
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      columns: '2'
-      view: compact
+  # - block: markdown
+  #   id: posts1
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: 'Check out my recent blog posts below!'
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       # The folders to display content from
+  #       folders:
+  #         - posts1
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       publication_type: ""
+  #       featured_only: false
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #     # Choose how many pages you would like to offset by
+  #     # Useful if you wish to show the first item in the Featured widget
+  #     offset: 0
+  #     # Field to sort by, such as Date or Title
+  #     sort_by: 'Date'
+  #     sort_ascending: false
+  #   design:
+  #     columns: '2'
+  #     view: compact
 #  - block: collection
 #    id: supervision
 #    content:
