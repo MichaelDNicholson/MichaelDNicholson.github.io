@@ -224,8 +224,8 @@ sections:
   - block: markdown
     id: supervision
     content:
-      title: My title
-      subtitle: My subtitle
+      title: Supervision
+#      subtitle: 
       text: |-
         - Xell Brunet-Guasch PhD exp 2025. (co-supervised with Tibor Antal and Ian Tomlinson, Michael Nicholson) 
 #       - uncomment and add if have more

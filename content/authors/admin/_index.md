@@ -129,5 +129,5 @@ I am currently a Cross Disciplinary Research fellow at the Institute of Genetics
 
 I'm interested in building, developing, and applying mathematical methods to understand the mutations observed in cancer genomes. Mathematically, I adopt a stochastic process centred approach, building mechanistic models in order to quantitatively explore hypotheses, and infer fundamental mutational and evolutionary parameters. These models are paired with large, state-of-the-art DNA sequencing datasets. Biologically, I focus on how and when mutations arise in cancer, and what the consequences of certain mutations are for cancer development and progression.
 
-I am organiser of the Mathematical Biology seminars at the School of Mathematics, University of Edinburgh.
+I am an organiser of the [Mathematical Biology seminars](https://www.maths.ed.ac.uk/school-of-mathematics/events/math-biology/mathbiol) at the School of Mathematics, University of Edinburgh.
 {style="text-align: justify;"}
