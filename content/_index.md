@@ -190,7 +190,7 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: featured
+    id: papers #used to be featured
     content:
       title: Featured Publications
       filters:
