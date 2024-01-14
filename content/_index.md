@@ -189,32 +189,32 @@ sections:
 #        {{< gallery album="demo" >}}
 #    design:
 #      columns: '1'
+  # - block: collection
+  #   id: papers #used to be featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: citation #used to be card
   - block: collection
-    id: papers #used to be featured
+    id: papers
     content:
-      title: Featured Publications
+      title: Papers
+#      text: |-
+#        {{% callout note %}}
+#        Quickly discover relevant content by [filtering publications](./publication/).
+#        {{% /callout %}}
       filters:
         folders:
           - publication
-        featured_only: true
+#        exclude_featured: true
     design:
       columns: '2'
-      view: citation #used to be card
-#   - block: collection
-#     id: papers
-#     content:
-#       title: Papers
-# #      text: |-
-# #        {{% callout note %}}
-# #        Quickly discover relevant content by [filtering publications](./publication/).
-# #        {{% /callout %}}
-#       filters:
-#         folders:
-#           - publication
-# #        exclude_featured: true
-#     design:
-#       columns: '2'
-#       view: citation
+      view: citation
   - block: markdown
     id: supervision
     content:
