@@ -196,7 +196,7 @@ sections:
       filters:
         folders:
           - publication
-         featured_only: true #used to be 
+         featured_only: true 
     design:
       columns: '2'
       view: citation #used to be card
