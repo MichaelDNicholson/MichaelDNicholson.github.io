@@ -192,35 +192,35 @@ sections:
 #  - block: collection
 #    id: featured
 #    content:
-#      title: Featured Publications
-#      filters:
-#        folders:
-#          - publication
-#        featured_only: true
-#    design:
-#      columns: '2'
-#      view: card
-#didnt work
-#  - block: markdown
-#    content:
-#	    filters:
-#		folders:
-#		  - posts
-  - block: collection
-    id: papers
-    content:
-      title: Papers
-#      text: |-
-#        {{% callout note %}}
-#        Quickly discover relevant content by [filtering publications](./publication/).
-#        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-#        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+     title: Featured Publications
+     filters:
+       folders:
+         - publication
+       featured_only: true
+   design:
+     columns: '2'
+     view: card
+didnt work
+ - block: markdown
+   content:
+    filters:
+	folders:
+	  - posts
+#   - block: collection
+#     id: papers
+#     content:
+#       title: Papers
+# #      text: |-
+# #        {{% callout note %}}
+# #        Quickly discover relevant content by [filtering publications](./publication/).
+# #        {{% /callout %}}
+#       filters:
+#         folders:
+#           - publication
+# #        exclude_featured: true
+#     design:
+#       columns: '2'
+#       view: citation
   - block: markdown
     id: supervision
     content:
