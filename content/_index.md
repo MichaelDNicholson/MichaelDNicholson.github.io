@@ -189,9 +189,9 @@ sections:
 #        {{< gallery album="demo" >}}
 #    design:
 #      columns: '1'
-#  - block: collection
-#    id: featured
-#    content:
+ - block: collection
+   id: featured
+   content:
      title: Featured Publications
      filters:
        folders:
