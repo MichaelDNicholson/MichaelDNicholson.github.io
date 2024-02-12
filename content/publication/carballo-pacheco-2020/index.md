@@ -2,8 +2,8 @@
 title: 'Phenotypic delay in the evolution of bacterial antibiotic resistance: Mechanistic
   models and their implications'
 authors:
-- Martín Carballo-Pacheco
-- Michael D Nicholson
+- Martín Carballo-Pacheco*
+- Michael D Nicholson*
 - Elin E Lilja
 - Rosalind J Allen
 - Bartlomiej Waclaw

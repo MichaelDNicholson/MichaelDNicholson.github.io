@@ -1,9 +1,9 @@
 ---
 title: Breast tumours maintain a reservoir of subclonal diversity during expansion
 authors:
-- Darlan C Minussi
-- admin
-- Hanghui Ye
+- Darlan C Minussi*
+- Michael D. Nicholson*
+- Hanghui Ye*
 - Alexander Davis
 - Kaile Wang
 - Toby Baker
