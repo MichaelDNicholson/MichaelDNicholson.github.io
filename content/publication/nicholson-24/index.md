@@ -1,5 +1,6 @@
 ---
-title: DNA lesion bypass and the stochastic dynamics of transcription-coupled repair:
+title: DNA lesion bypass and the stochastic dynamics of transcription-coupled repair
+authors:
 - Michael D Nicholson
 - Craig J. Anderson
 - Duncan T. Odom
