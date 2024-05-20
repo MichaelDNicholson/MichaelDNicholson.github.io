@@ -1,6 +1,5 @@
 ---
-title: Sequential mutations in exponentially growing populations
-authors:
+title: DNA lesion bypass and the stochastic dynamics of transcription-coupled repair:
 - Michael D Nicholson
 - Craig J. Anderson
 - Duncan T. Odom
