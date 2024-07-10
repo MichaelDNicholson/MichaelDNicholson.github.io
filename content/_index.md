@@ -222,7 +222,7 @@ sections:
 #      subtitle: 
       text: |-
         - Xell Brunet-Guasch, PhD student in mathematics. Co-supervised with Tibor Antal and Ian Tomlinson.
-        - James Hayes, PhD student in human genetics, expected 2027. Co-supervised with Martin Taylor.
+        - James Hayes, PhD student in human genetics. Co-supervised with Martin Taylor.
 #       - uncomment and add if have more
     design:
       columns: '2'
