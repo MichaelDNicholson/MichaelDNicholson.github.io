@@ -223,6 +223,7 @@ sections:
       text: |-
         - Xell Brunet-Guasch, PhD student in mathematics. Co-supervised with Tibor Antal and Ian Tomlinson.
         - James Hayes, PhD student in human genetics. Co-supervised with Martin Taylor.
+        - Jessica Codling, PhD student in mathematics. Co-supervised with Martin Taylor.
 #       - uncomment and add if have more
     design:
       columns: '2'
@@ -278,10 +279,10 @@ sections:
       email: michael.nicholson@ed.ac.uk
 #      appointment_url: 'https://calendly.com'
       address:
-        street: CRUK Scotland Centre, Institute of Genetics and Cancer, University of Edinburgh
+        street: School of Mathematics, University of Edinburgh
         city: Edinburgh
         region: Scotland
-        postcode: 'EH4 2XU'
+        postcode: 'EH9 3FD'
         country: United Kingdom
         country_code: UK
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2

@@ -17,19 +17,19 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Cross Disciplinary Research Fellow
+role: Chancellor's Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institute of Genetics and Cancer,  University of Edinburgh
-    url: https://www.ed.ac.uk/institute-genetics-cancer
+  - name: School of Mathematics,  University of Edinburgh
+    url: https://www.maths.ed.ac.uk/school-of-mathematics
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 # Interests to show in About widget
 interests:
-  - Cancer evolution
+  - Somatic and cancer evolution
   - Mutagenesis
   - Stochastic modelling & statistical inference
 
@@ -125,9 +125,9 @@ highlight_name: true
 ---
 Welcome. I am an applied mathematician based in Edinburgh, UK.
 
-I am currently a [Cross Disciplinary Research fellow](https://cross-disciplinary-fellowships.ed.ac.uk/) in the CRUK Scotland Centre at the Institute of Genetics and Cancer, University of Edinburgh. In September 2024 I will move to the School of Mathematics at the University of Edinburgh as a Chancellor's fellow in Health and Life. Please get in touch if you're interested in undertaking an applied mathematics PhD combining mathematical modelling, data science, and cancer genomics.
+I am a Chancellor's Fellow in Health and Life (~ Assistant Professor), based at the School of Mathematics at the University of Edinburgh. 
 
-I'm interested in building, developing, and applying mathematical methods to understand the mutations observed in cancer genomes. Mathematically, I adopt a stochastic process centred approach, building mechanistic models in order to quantitatively explore hypotheses, and infer fundamental mutational and evolutionary parameters. These models are then used to analyse DNA sequencing data. Biologically, I focus on how and when mutations arise in cancer, and what the consequences of certain mutations are for cancer development and progression. A list of my papers can be found on this site or on my [Google Scholar page](https://scholar.google.co.uk/citations?hl=en&user=BsbJEv0AAAAJ&view_op=list_works&sortby=pubdate).
+I'm broadly interested in applying mathematical modelling to genomics, with a particular focus on cancer.  Mathematically, I adopt a stochastic process centred approach, building mechanistic models in order to quantitatively explore hypotheses, and infer fundamental mutational and evolutionary parameters. These models are then used to analyse various genomic data. Biologically, I focus on how DNA repair, mutagenesis, and the consequences of certain DNA mutations on cancer development and progression. A list of my papers can be found on this site or on my [Google Scholar page](https://scholar.google.co.uk/citations?hl=en&user=BsbJEv0AAAAJ&view_op=list_works&sortby=pubdate). Please get in touch if you're interested in undertaking an applied mathematics PhD combining mathematical modelling, data science, and genomics.
 
 I am an organiser of the [Mathematical Biology seminars](https://www.maths.ed.ac.uk/school-of-mathematics/events/math-biology/mathbiol) at the School of Mathematics, University of Edinburgh.
 {style="text-align: justify;"}
