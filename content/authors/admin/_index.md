@@ -125,9 +125,11 @@ highlight_name: true
 ---
 Welcome. I am an applied mathematician based in Edinburgh, UK.
 
-I am a Chancellor's Fellow in Health and Life (~ Assistant Professor), based at the School of Mathematics at the University of Edinburgh. 
+I am a Chancellor's Fellow in Health and Life (~ Assistant Professor), based in the School of Mathematics at the University of Edinburgh. 
 
-I'm broadly interested in applying mathematical modelling to genomics, with a particular focus on cancer.  Mathematically, I adopt a stochastic process centred approach, building mechanistic models in order to quantitatively explore hypotheses, and infer fundamental mutational and evolutionary parameters. These models are then used to analyse various genomic data. Biologically, I focus on how DNA repair, mutagenesis, and the consequences of certain DNA mutations on cancer development and progression. A list of my papers can be found on this site or on my [Google Scholar page](https://scholar.google.co.uk/citations?hl=en&user=BsbJEv0AAAAJ&view_op=list_works&sortby=pubdate). Please get in touch if you're interested in undertaking an applied mathematics PhD combining mathematical modelling, data science, and genomics.
+I'm broadly interested in applying mathematical modelling to genomics, with a particular focus on cancer.  Mathematically, I adopt a stochastic process centred approach, building mechanistic models in order to quantitatively explore hypotheses, and infer fundamental mutational and evolutionary parameters. These models are then used to analyse various genomic data. Biologically, I focus on how DNA repair, mutagenesis, and the consequences of certain DNA mutations on cancer development and progression. Please get in touch if you're interested in undertaking an applied mathematics PhD combining mathematical modelling, data science, and genomics.
+
+A list of my papers can be found on this site or on my [Google Scholar page](https://scholar.google.co.uk/citations?hl=en&user=BsbJEv0AAAAJ&view_op=list_works&sortby=pubdate). 
 
 I am an organiser of the [Mathematical Biology seminars](https://www.maths.ed.ac.uk/school-of-mathematics/events/math-biology/mathbiol) at the School of Mathematics, University of Edinburgh.
 {style="text-align: justify;"}
