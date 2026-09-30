@@ -222,7 +222,7 @@ sections:
 #      subtitle: 
       text: |-
         - Xell Brunet-Guasch, PhD student in mathematics. Co-supervised with Tibor Antal and Ian Tomlinson.
-        - James Hayes, PhD student in human genetics. Co-supervised with Martin Taylor.
+        - James Hayes, PhD student in human genetics. Co-supervised with Martin Taylor..
         - Jessica Codling, PhD student in mathematics. Co-supervised with Martin Taylor.
         - Caterina Lue, PhD student in mathematics. Co-supervised with Tibor Antal.
 #       - uncomment and add if have more
